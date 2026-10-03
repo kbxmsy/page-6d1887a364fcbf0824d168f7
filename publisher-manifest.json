@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "21ce4e134120743d1725cada",
+  "owner": "kbxmsy",
+  "repo": "page-6d1887a364fcbf0824d168f7",
+  "title": "兔子云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6d1887a364fcbf0824d168f7",
+      "a": "兔子云",
+      "b": "",
+      "entity": "兔子云",
+      "brand": "兔子云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4457adc5bbd5bf4b192a605afee8441c5fb1bc86aa3b15e31adcfaa75520c041",
+      "content": {
+        "keyword1": "兔子云",
+        "keyword2": "",
+        "primary_entity": "兔子云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "兔子云是面向个人与团队的官方机场订阅与VPN网络加速服务，提供多端客户端下载、流媒体解锁与 IPLC 游戏加速，套餐透明、节点稳定，欢迎访问官网获取订阅。",
+          "AI_DESCRIPTION": "兔子云是面向个人与团队的官方机场订阅与VPN网络加速服务，提供多端客户端下载、流媒体解锁与 IPLC 游戏加速，套餐透明、节点稳定，欢迎访问官网获取订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;background:#F6F3EC;color:#1C241C;line-height:1.65;font-size:16px}a{color:#1F6B45;text-decoration:none}header{background:#1B5E3B;color:#fff;padding:14px 16px}header .wrap{display:block}.brand-mark{font-weight:700;font-size:20px;letter-spacing:.04em}.tag{font-size:12px;opacity:.9;margin-top:2px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px;font-size:14px}nav a{color:#E8F5E9}main{display:block}.wrap{max-width:980px;margin:0 auto;padding:0 16px}.hero{padding:28px 0 10px}h1{font-size:28px;color:#14532D;line-height:1.3;margin-bottom:10px}h2{font-size:22px;color:#14532D;margin:28px 0 12px}h3{font-size:18px;color:#1B5E3B;margin:16px 0 8px}p{margin:0 0 10px}.lead{font-size:17px;color:#2C332C}.muted{color:#4A5C4A;font-size:14px}.cards{display:flex;flex-wrap:wrap;gap:12px}.card{background:#fff;border:1px solid #D7E3D7;border-radius:10px;padding:14px;flex:1 1 260px;min-width:0}.card.featured{border:2px solid #1B5E3B;background:#F1F8F3}.price{font-size:22px;font-weight:700;color:#14532D}.annual{font-size:13px;color:#4A5C4A;margin:4px 0 8px}.card ul,.scene ul{padding-left:18px}.card li,.scene li,ol li{margin:5px 0}.badge{display:inline-block;background:#1B5E3B;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.btn{display:inline-block;background:#1B5E3B;color:#fff;padding:8px 14px;border-radius:8px;margin-top:8px;font-size:14px}.clients{display:flex;flex-wrap:wrap;gap:8px}.client{background:#fff;border:1px solid #C9DCC9;border-radius:8px;padding:10px 12px;flex:1 1 150px;min-width:0;font-size:14px}.client strong{display:block;color:#14532D;margin-bottom:4px}details{background:#fff;border:1px solid #D7E3D7;border-radius:8px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#14532D}details p{margin-top:8px;font-size:15px}.note{background:#EAF3EC;border-left:4px solid #1B5E3B;padding:10px 12px;border-radius:4px;margin:12px 0;font-size:15px}ol{padding-left:22px}.ad{background:#fff;border:1px dashed #A3C4A3;padding:12px;border-radius:8px;margin:8px 0;font-size:14px}.links{display:flex;flex-wrap:wrap;gap:8px 16px}footer{background:#143D28;color:#DCE8DC;padding:24px 16px;margin-top:28px;font-size:13px}footer a{color:#B7E4C7}footer h2{color:#E8F5E9;font-size:16px;margin:0 0 8px}@media (max-width:640px){h1{font-size:24px}h2{font-size:20px}.card,.client{flex:1 1 100%}}</style><header><div class=\"wrap\"><div class=\"brand-mark\">兔子云</div><div class=\"tag\">官方网站 · 机场订阅与客户端下载</div><nav><a href=\"#plans\">套餐价格</a><a href=\"#clients\">客户端选择</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">线路节点</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"download\"><h1>兔子云</h1><p class=\"lead\">兔子云是面向个人创作者、跨境办公与小团队的官方机场订阅服务，把 VPN 网络加速、流媒体解锁和多端客户端下载放在同一入口。访问本站即可对比套餐、获取订阅并完成常用加速器导入，无需在非官方渠道寻找安装包。</p><p>我们把稳定性放在首位：香港、日本、新加坡、台湾、美国与欧洲线路按业务分流，旗舰与团队套餐提供 IPLC 专线用于对延迟敏感的游戏与会议。订阅协议兼容主流 Clash、sing-box 与 Shadowrocket 生态，导入后即可按规则分流。</p><p class=\"muted\">唯一推荐入口为兔子云官方网站。任何第三方镜像、群文件或来路不明的安装包都不代表兔子云官方身份。</p></section><section id=\"plans\"><h2>机场订阅套餐</h2><p>三档套餐按流量、同时在线设备与线路等级划分，价格按自然月计费，年付可锁定当前单价。所有套餐均可在官网自助开通，订阅链接可在 Clash 系、iOS 商店客户端与 Windows / macOS / Android 加速器中使用。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#guide\">前往官网开通</a></article><article class=\"card featured\"><p class=\"badge\">推荐 · 旗舰版</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#clients\">选择客户端后导入</a></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#guide\">查看团队接入说明</a></article></div><p class=\"note\">流量按自然月重置，不结转。设备数以同时在线隧道计。流媒体解锁依赖目标站点风控策略，旗舰版与团队版优先调度原生 IP 出口。</p></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>兔子云不绑定单一 App，而是提供标准订阅，供你在常用加速器中导入。请先确认系统，再下载对应客户端，最后粘贴官网发放的订阅地址。以下为官方推荐组合，安装包请到系统商店或客户端项目主页获取，避免来路不明的修改版。</p><div class=\"clients\"><article class=\"client\"><strong>Windows</strong>Clash Verge、v2rayN、sing-box 图形版。适合桌面分流与游戏加速。</article><article class=\"client\"><strong>macOS</strong>Clash Verge、Stash、Surge。可按域名与进程分流，适配远程办公。</article><article class=\"client\"><strong>Android</strong>Clash Meta for Android、Hiddify、NekoBox。建议关闭省电限制以保证心跳。</article><article class=\"client\"><strong>iOS / iPadOS</strong>Shadowrocket、Quantumult X、Stash、Loon。需使用商店正版客户端。</article><article class=\"client\"><strong>tvOS / 路由</strong>支持 OpenClash、HomeProxy 与 sing-box。团队版可下发定制路由规则。</article><article class=\"client\"><strong>协议兼容</strong>订阅含代理节点与规则集，覆盖常见 VPN 梯子与机场导入格式。</article></div><p class=\"muted\">客户端选择是使用兔子云的第一步：同一订阅可在多台已授权设备中复用，超出套餐设备上限时旧连接会被挤下线。官网下载入口只提供订阅与说明，不托管第三方安装包。</p></section><section id=\"scenes\" class=\"scene\"><h2>使用场景</h2><h3>跨境办公与学术访问</h3><p>会议软件、代码仓库、文献数据库走稳定线路，浏览器走规则分流，国内站点直连。旗舰版 IPLC 适合对抖动敏感的远程桌面。</p><h3>流媒体与内容创作</h3><p>旗舰版与团队版对主流流媒体做原生解锁调度，减少验证码与地区限制。上传备份可指定高带宽出口。</p><h3>游戏加速</h3><p>对战类游戏建议绑定 IPLC 或游戏优化节点，避免全局模式把更新流量打满月度配额。基础版可用于轻度加速。</p><h3>多设备家庭与小团队</h3><p>手机、电脑与路由器同时在线时，按套餐设备上限规划。团队版提供专属高带宽节点与客户经理，便于统一路由策略。</p><ul><li>个人轻度访问：基础版 + 手机和电脑各一</li><li>观影与游戏兼顾：旗舰版 + 五台设备</li><li>工作室共享出口：团队版 + 路由统一接入</li></ul></section><section id=\"guide\"><h2>操作说明</h2><p>完成一次兔子云机场订阅导入，通常只需要四步。全程在官方网站与正版客户端内操作即可。</p><h3>开通与获取订阅</h3><ol><li>在本页确认套餐额度、设备数与是否需要 IPLC。</li><li>通过兔子云官网完成下单，进入用户中心复制订阅链接。</li><li>按系统选择客户端并完成安装，开启本地代理权限。</li><li>在客户端中选择“从 URL 导入 / 订阅”，粘贴链接并更新节点。</li></ol><h3>日常使用建议</h3><p>首次导入后先测延迟，再为浏览器、会议与游戏分别指定策略。流媒体遇到地区检测时，切换至标注解锁的节点而不是反复重连。月度流量接近上限时，可在官网升级套餐或等待次月重置。团队用户如需固定出口或分部门规则，通过工单提交网段与域名清单即可。</p><p class=\"note\">不要把订阅链接发到公开群或截图传播。链接泄露后请在官网重置订阅，旧地址会立即失效。</p></section><section id=\"nodes\"><h2>线路节点与加速表现</h2><p>兔子云节点池按地区与用途分组：通用浏览、流媒体原生、IPLC 游戏与团队高带宽。普通线路适合网页与轻量 API；旗舰版解锁节点针对影音平台做出口筛选；游戏优化节点强调低抖动而不是单纯低延迟数字。晚高峰对热门方向启用拥塞感知，避免所有用户挤在同一入口。</p><p>基础版使用普通线路节点池，能覆盖日常梯子与网络加速需求。需要长时间会议、4K 播放或竞技类游戏时，旗舰版的专线调度更合适。团队版在此基础上提供 VIP 带宽与可定制路由，适合把兔子云当作统一出口网关。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>兔子云是什么？和普通 VPN 有何不同？</summary><p>兔子云是提供机场订阅的官方网站服务，交付的是可导入 Clash、Shadowrocket 等加速器的节点与规则，而不是单一封闭 App。你可以按设备自由选择客户端，用同一订阅完成网页加速、流媒体解锁与游戏线路切换。</p></details><details><summary>如何在官网完成客户端下载并导入订阅？</summary><p>先在本页「客户端选择」确认系统对应的正版软件，到系统商店或项目主页安装。然后登录兔子云官网复制订阅地址，在客户端内粘贴 URL 并更新。导入成功后选择规则模式即可开始网络加速，无需手工填写每个服务器。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>以设备和流量为主：三台设备、轻度浏览选基础版；需要原生流媒体、IPLC 游戏加速和优先工单选旗舰版；二十台设备、企业路由和专属客户经理选团队版。年付仅锁定单价，流量仍按月重置。</p></details><details><summary>是否支持流媒体解锁和游戏 IPLC？</summary><p>基础版提供基础流媒体解锁，满足常见地区限制。旗舰版与团队版调度全节点原生解锁，并对游戏线路做 IPLC 优化。实际播放与登录仍受平台风控影响，遇到验证时更换对应解锁节点即可。</p></details><details><summary>流量用尽或设备超限怎么办？</summary><p>流量在套餐周期内用尽后加速通道会暂停，次月自动恢复，也可在官网升级档位立即扩容。同时在线超过套餐设备数时，最早建立的连接会被踢下线。团队若把兔子云部署在路由器上，请按实际终端数选择团队版。</p></details><details><summary>兔子云官方身份如何识别？订阅安全吗？</summary><p>请只通过兔子云官网登录用户中心获取订阅。本站不在聊天工具发放安装包，也不要求关闭系统安全软件。若收到索要验证码或代充链接的消息，一律视为仿冒。订阅泄露后立即在官网重置。</p></details></section><section id=\"ads\"><h2>广告位</h2><div class=\"ad\"><p><strong>远程协作工具包</strong> 与兔子云旗舰版搭配使用时，建议将会议进程走 IPLC，文件同步走高带宽节点。了解分流模板请见 <a href=\"#guide\">操作说明</a>。</p></div><div class=\"ad\"><p><strong>工作室路由方案</strong> 需要把多台电脑接入同一出口时，可参考团队版定制路由，再结合 OpenClash 或 sing-box 落地。详见 <a href=\"#clients\">客户端选择</a>。</p></div></section><section id=\"friends\"><h2>友情链接</h2><div class=\"links\"><a href=\"#\">Clash 配置入门</a><a href=\"#\">Shadowrocket 使用笔记</a><a href=\"#\">IPLC 与游戏加速对照</a><a href=\"#\">规则分流模板</a><a href=\"#\">隐私与日志说明</a></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>兔子云官方网站</h2><p>本页为兔子云机场订阅、VPN 网络加速与客户端下载说明。站点地图见 <a href=\"#\">sitemap.xml</a>。联系与工单请通过官网用户中心提交。</p><p class=\"links\"><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#faq\">FAQ</a><a href=\"#download\">官网下载</a></p><p>© 兔子云 保留所有权利。内容仅供了解官方套餐与操作路径，请遵守所在地区对网络服务的规定。</p></div></footer>",
+          "hash": "5576fc95991649603c807080585c65e3b5c4cd2edc13da52da3541d1dd24cb02",
+          "seo": {
+            "title": "兔子云官网 | 机场订阅 VPN 加速器与客户端下载",
+            "keywords": "兔子云,兔子云官网,兔子云机场,兔子云VPN,梯子,网络加速,加速器,客户端下载,Clash,Shadowrocket,官方下载",
+            "description": "兔子云是面向个人与团队的官方机场订阅与VPN网络加速服务，提供多端客户端下载、流媒体解锁与 IPLC 游戏加速，套餐透明、节点稳定，欢迎访问官网获取订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qnmbq.cn",
+    "host": "p-0477bf5fde.qnmbq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qnmbq.cn",
+      "url": "https://qnmbq.cn/",
+      "label": "灵魂云",
+      "apex": "qnmbq.cn",
+      "kind": null,
+      "identity": "gbetgyv/page-42f81aed81483f9d01b0cba4"
+    },
+    {
+      "host": "632i1g.cn",
+      "url": "https://632i1g.cn/",
+      "label": "兔子云",
+      "apex": "632i1g.cn",
+      "kind": null,
+      "identity": "yjjocltc/page-89fb4717e0e7146b0433ddae"
+    },
+    {
+      "host": "stwypeo.cn",
+      "url": "https://stwypeo.cn/",
+      "label": "兔子云",
+      "apex": "stwypeo.cn",
+      "kind": null,
+      "identity": "bunoobu/page-62cb4a4f9d7bcc3e7e582ef3"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bc40cc8921c6d07c2803ab8b9463b9fac519b85740e9c50267974b462d3106c3",
+    "sitemap.xml": "568f08a4f9131f1136107986f4c1af4ea91113648e09c10af67f42002998ae3a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "783e9529f6c0c9d891c054f199c4cbc971073611969cd0c7df29414c85918161",
+    "robots.txt": "dd8a26b2fa0f3761ae6f22f9717392d128861d200c9f755d3a2788156b18cd6c",
+    "e58799b4ce9a0b0c0c6bc4743187fb65.txt": "8d4224bec9f2de782386599c0a529dba7999c10af41e1f2c4129b0fb17a15ba7"
+  },
+  "revision": "a0ccdf2cd14743c5543e17c53f5f783143122f5e53396005ae99d612cb4444a3"
+}
